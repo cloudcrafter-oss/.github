@@ -1,2 +1,1 @@
-# .github
-Organisation readme
+Hello organisation!
